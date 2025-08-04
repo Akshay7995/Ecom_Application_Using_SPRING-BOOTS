@@ -2,7 +2,7 @@
 
 ### **Project Overview:**
 
-This project is the backend of an eCommerce application developed using the Spring Framework, adhering to the MVC (Model-View-Controller) architecture. It is designed to handle client requests efficiently, manage business logic, and interface with an H2 database.
+This project is the backend of an eCommerce application developed using the Spring Framework, adhering to the MVC (Model-View-Controller) architecture. It is designed to handle client requests efficiently, manage business logic, and interface with an PostgreSQL.
 
 ### **Technologies Used:**
 
