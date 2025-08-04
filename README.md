@@ -10,7 +10,7 @@ This project is the backend of an eCommerce application developed using the Spri
 
 -> Spring Data JPA
 
--> H2 Database
+-> PostgreSQL
 
 -> Maven
 
@@ -20,7 +20,7 @@ This project is the backend of an eCommerce application developed using the Spri
 
 2) Spring Framework: Utilizes Spring Framework for dependency injection, request mapping, and service management.
 
-3) H2 Database Integration: H2 is used to store and retrieve data.
+3) PostgreSQL: PostgreSQL is used to store and retrieve data.
 
 4) Application Port: Runs on https://localhost:8080.
 
